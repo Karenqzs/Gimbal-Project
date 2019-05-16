@@ -1,6 +1,6 @@
 # Gimbal-Project
-Karen Zhang
-Gimbal
+Karen Zhang.
+Gimbal.
 Mixed Media, 3D Printing
 
 This project is a self-stabilizing gimbal by using Arduino Nano, MPU6050 sensor, and three servos that control ‘row’, ‘pitch’, and ‘yaw’. 
